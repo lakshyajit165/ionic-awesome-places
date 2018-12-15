@@ -13,8 +13,8 @@ import { Location } from '../../models/location';
 export class AddPlacePage {
 
   location: Location = {
-     lat: 20.257763,
-     lng: 85.793277  
+     lat: 20.287914,
+     lng: 85.845120  
   };
 
   constructor(private modalCtrl: ModalController){}
